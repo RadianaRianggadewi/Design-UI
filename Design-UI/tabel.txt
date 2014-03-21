@@ -1,0 +1,6 @@
+tabel :
+1. pengajar
+2. pendidikan
+3. jadwal
+4. mata pelajaran
+5. kelas
